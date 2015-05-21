@@ -1,0 +1,255 @@
+ [
+            {
+                "service_name": "Google 2 Drive for Business",
+                "cloud_service_model": {
+                    "_identifier": "saas"
+                },
+                "add_on_repository": {
+                    "url": "https://www.google.com/enterprise/marketplace/home",
+                    "number_of_add_ons": "1000"
+                },
+                "is_charged_by": {
+                    "_identifier": "user_account"
+                },
+                "status_page": "http://www.google.com/appsstatus",
+                "public_service_level_agreement": "http://www.google.com/apps/intl/en/terms/sla.html",
+                "is_billed": {
+                    "billing_term": {
+                        "_identifier": "monthly"
+                    },
+                    "payment_term": {
+                        "_identifier": "in_advance"
+                    }
+                },
+                "payment_option": {
+                    "_identifier": "credit_card"
+                },
+                "documentation": "http://www.google.com/enterprise/apps/business/products.html#drive",
+                "rest_interface": {
+                    "interface_documentation": "https://developers.google.com/drive/"
+                },
+                "compatible_browser": [
+                    {
+                        "browser": {
+                            "url": "http://www.mozilla.org/firefox/",
+                            "_identifier": "firefox"
+                        },
+                        "min_version": "recent"
+                    },
+                    {
+                        "browser": {
+                            "url": "https://www.google.com/chrome",
+                            "_identifier": "chrome"
+                        },
+                        "min_version": "recent"
+                    },
+                    {
+                        "browser": {
+                            "url": "http://www.apple.com/safari",
+                            "_identifier": "safari"
+                        },
+                        "min_version": "5"
+                    },
+                    {
+                        "browser": {
+                            "url": "http://windows.microsoft.com/en-US/internet-explorer/download-ie",
+                            "_identifier": "internet_explorer"
+                        },
+                        "min_version": "9"
+                    }
+                ],
+                "status": {
+                    "_identifier": "approved"
+                }
+            },
+            {
+                "service_name": "Amazon Cloud",
+                "cloud_service_model": {
+                    "_identifier": "saas"
+                },
+                "add_on_repository": {
+                    "url": "https://www.google.com/enterprise/marketplace/home",
+                    "number_of_add_ons": "1000"
+                },
+                "is_charged_by": {
+                    "_identifier": "user_account"
+                },
+                "status_page": "http://www.google.com/appsstatus",
+                "public_service_level_agreement": "http://www.google.com/apps/intl/en/terms/sla.html",
+                "is_billed": {
+                    "billing_term": {
+                        "_identifier": "monthly"
+                    },
+                    "payment_term": {
+                        "_identifier": "in_advance"
+                    }
+                },
+                "payment_option": {
+                    "_identifier": "credit_card"
+                },
+                "documentation": "http://www.google.com/enterprise/apps/business/products.html#drive",
+                "rest_interface": {
+                    "interface_documentation": "https://developers.google.com/drive/"
+                },
+                "compatible_browser": [
+                    {
+                        "browser": {
+                            "url": "http://www.mozilla.org/firefox/",
+                            "_identifier": "firefox"
+                        },
+                        "min_version": "recent"
+                    },
+                    {
+                        "browser": {
+                            "url": "https://www.google.com/chrome",
+                            "_identifier": "chrome"
+                        },
+                        "min_version": "recent"
+                    },
+                    {
+                        "browser": {
+                            "url": "http://www.apple.com/safari",
+                            "_identifier": "safari"
+                        },
+                        "min_version": "5"
+                    },
+                    {
+                        "browser": {
+                            "url": "http://windows.microsoft.com/en-US/internet-explorer/download-ie",
+                            "_identifier": "internet_explorer"
+                        },
+                        "min_version": "9"
+                    }
+                ],
+                "status": {
+                    "_identifier": "approved"
+                }
+            },
+            {
+                "service_name": "Google Cloud",
+                "cloud_service_model": {
+                    "_identifier": "saas"
+                },
+                "add_on_repository": {
+                    "url": "https://www.google.com/enterprise/marketplace/home",
+                    "number_of_add_ons": "1000"
+                },
+                "is_charged_by": {
+                    "_identifier": "user_account"
+                },
+                "status_page": "http://www.google.com/appsstatus",
+                "public_service_level_agreement": "http://www.google.com/apps/intl/en/terms/sla.html",
+                "is_billed": {
+                    "billing_term": {
+                        "_identifier": "monthly"
+                    },
+                    "payment_term": {
+                        "_identifier": "in_advance"
+                    }
+                },
+                "payment_option": {
+                    "_identifier": "credit_card"
+                },
+                "documentation": "http://www.google.com/enterprise/apps/business/products.html#drive",
+                "rest_interface": {
+                    "interface_documentation": "https://developers.google.com/drive/"
+                },
+                "compatible_browser": [
+                    {
+                        "browser": {
+                            "url": "http://www.mozilla.org/firefox/",
+                            "_identifier": "firefox"
+                        },
+                        "min_version": "recent"
+                    },
+                    {
+                        "browser": {
+                            "url": "https://www.google.com/chrome",
+                            "_identifier": "chrome"
+                        },
+                        "min_version": "recent"
+                    },
+                    {
+                        "browser": {
+                            "url": "http://www.apple.com/safari",
+                            "_identifier": "safari"
+                        },
+                        "min_version": "5"
+                    },
+                    {
+                        "browser": {
+                            "url": "http://windows.microsoft.com/en-US/internet-explorer/download-ie",
+                            "_identifier": "internet_explorer"
+                        },
+                        "min_version": "9"
+                    }
+                ],
+                "status": {
+                    "_identifier": "approved"
+                }
+            },
+            {
+                "service_name": "Oracle Cloud",
+                "cloud_service_model": {
+                    "_identifier": "saas"
+                },
+                "add_on_repository": {
+                    "url": "https://www.google.com/enterprise/marketplace/home",
+                    "number_of_add_ons": "1000"
+                },
+                "is_charged_by": {
+                    "_identifier": "user_account"
+                },
+                "status_page": "http://www.google.com/appsstatus",
+                "public_service_level_agreement": "http://www.google.com/apps/intl/en/terms/sla.html",
+                "is_billed": {
+                    "billing_term": {
+                        "_identifier": "monthly"
+                    },
+                    "payment_term": {
+                        "_identifier": "in_advance"
+                    }
+                },
+                "payment_option": {
+                    "_identifier": "credit_card"
+                },
+                "documentation": "http://www.google.com/enterprise/apps/business/products.html#drive",
+                "rest_interface": {
+                    "interface_documentation": "https://developers.google.com/drive/"
+                },
+                "compatible_browser": [
+                    {
+                        "browser": {
+                            "url": "http://www.mozilla.org/firefox/",
+                            "_identifier": "firefox"
+                        },
+                        "min_version": "recent"
+                    },
+                    {
+                        "browser": {
+                            "url": "https://www.google.com/chrome",
+                            "_identifier": "chrome"
+                        },
+                        "min_version": "recent"
+                    },
+                    {
+                        "browser": {
+                            "url": "http://www.apple.com/safari",
+                            "_identifier": "safari"
+                        },
+                        "min_version": "5"
+                    },
+                    {
+                        "browser": {
+                            "url": "http://windows.microsoft.com/en-US/internet-explorer/download-ie",
+                            "_identifier": "internet_explorer"
+                        },
+                        "min_version": "9"
+                    }
+                ],
+                "status": {
+                    "_identifier": "approved"
+                }
+            }
+        ]
+    
