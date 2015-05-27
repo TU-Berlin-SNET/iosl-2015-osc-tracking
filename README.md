@@ -2,6 +2,8 @@
 
 ## Frontend
 This section deals with the frontend of the Open Service Compendium (OSC).
+We will use Bootstrap as a GUI framework, Yeoman as a generator ecosystem and AngularJS for controlling the 
+whole web application.
 
 ### Get the source code and install on your machine
 1. Install nodejs, npm and bower on your machine
